@@ -1,9 +1,12 @@
 ---
-title: Personal and Communal Psychological struggle:*A Night In The Woods* Game Analysis
+title: Ghosts of the Self and Society:Supernatural Horror and Psychological Struggle in *Night in the Woods*
+subtitle: A Game Analysis
 author: Jasmin Aidarov
-date: 2025-03-11
+date: 2025-04-08
 thanks: Game 471
 ---
+
+\newpage
 
 **Research Question:** How does *Night in the Woods* use supernatural horror to depict collective and personal psychological struggle?
 
